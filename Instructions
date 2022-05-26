@@ -1,0 +1,1 @@
+This is a job to perform data analysis, data cleaning, data reading and artificial intelligence towards texts extracted by OCR techniques from certain images. To run it you can with Jupyter Notebooks and taking into account the order of your data and the encoding, in this case "latin-1" is used

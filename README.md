@@ -1,2 +1,2 @@
-# Prueba-ciencia-de-datos-con-texto-extraidos-de-OCR
-Trabajo para hacer inteligencia artificial y ciencia datos a una base de datos de textos extraídos con OCR . La prueba se anexa con el notebook utilizado en Jupyter notebooks pero no con la base de datos utilizada porque es una base de datos privada.
+#Test-science-of-data-with-text-extracted-from-OCR
+I work to do artificial intelligence and data science to a database of texts extracted with OCR. The test is appended with the notebook used in Jupyter notebooks but not with the database used because it is a private database.
